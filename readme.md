@@ -51,4 +51,5 @@ Check the contents of the sed.txt file using `cat` command.
 20. Store your `name` in a variable with `read` command.
 21. Print that variable.
 22. Create a new directory named with variable `name`.
-23. Remove that directory.
+23. Remove that directory.nnnnnnmnnnnnnnn
+nouveau document a update 
